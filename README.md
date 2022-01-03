@@ -1,2 +1,2 @@
 # MyHero
-MyHero it's a game fro (univ student project)
+MyHero it's a game for (univ student project)
